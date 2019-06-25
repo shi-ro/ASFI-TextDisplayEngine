@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsfiEngine", "AsfiEngine\AsfiEngine.csproj", "{08D706D2-DA48-42DF-BDBF-346EA56D9FE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFALNC", "WFALNC\WFALNC.csproj", "{E592D940-4AB9-43B0-AE12-59BF88EC30E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08D706D2-DA48-42DF-BDBF-346EA56D9FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D706D2-DA48-42DF-BDBF-346EA56D9FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D706D2-DA48-42DF-BDBF-346EA56D9FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D706D2-DA48-42DF-BDBF-346EA56D9FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E592D940-4AB9-43B0-AE12-59BF88EC30E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E592D940-4AB9-43B0-AE12-59BF88EC30E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E592D940-4AB9-43B0-AE12-59BF88EC30E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E592D940-4AB9-43B0-AE12-59BF88EC30E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F6F69A1-5D86-4524-AE27-DA7EEDB13958}
+	EndGlobalSection
+EndGlobal
